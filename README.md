@@ -8,8 +8,8 @@ A simple weather application that provides real-time weather updates for your ch
 - 🕒 **Real-Time Updates**: Get the latest weather data.
 
 ## Technologies Used
-- **HTML5**: Structure of the application.
-- **CSS3**: Styling and layout.
+- **HTML**: Structure of the application.
+- **CSS**: Styling and layout.
 - **JavaScript**: Interactive features and API calls.
 - **Weather API**: Real-time weather data.
 
